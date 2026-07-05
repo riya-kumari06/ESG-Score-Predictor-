@@ -1,7 +1,9 @@
 # 🌍 ESG Score Predictor Using Machine Learning
 
-> Predicting corporate sustainability performance using Ridge Regression
-> Aligned with UN SDG 8 · SDG 13 · SDG 17
+Streamlit Deployed Link - https://project-1-2vrk6yeg5yiktatwruhtss.streamlit.app/
+
+Predicting corporate sustainability performance using Ridge Regression
+Aligned with UN SDG 8 · SDG 13 · SDG 17
 
 ---
 
